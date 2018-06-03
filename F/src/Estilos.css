@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.MenuLeft {
+  margin-top: 40px;
+}
+.Content {
+  margin-top: 2%;
+}
+.Cliente {
+  height: 100%;
+  width: 100%;
+}
+.Create {
+  height: 100%;
+  width: 100%;
+}
+.Head {
+  align-items:center;
+  background-color:#2196F3;
+  color:#FFFFFF;
+  display:flex;
+  height:40px;
+  justify-content:center;
+  position:fixed;
+  top:0;
+  width:100%;
+  margin-top: 40;
+  }
+.azul {
+  height: 40px;
+  background-color: rgb(33, 150, 243);
+}
+.verd {
+  height: 64px;
+  background-color:#00BCD4;
+}
